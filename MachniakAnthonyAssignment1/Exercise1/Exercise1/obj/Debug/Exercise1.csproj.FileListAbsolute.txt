@@ -1,0 +1,14 @@
+G:\CSharpProjects\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+G:\CSharpProjects\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+G:\CSharpProjects\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+G:\CSharpProjects\Exercise1\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
+G:\CSharpProjects\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+G:\CSharpProjects\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+G:\CSharpProjects\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
+G:\CSharpProjects\MachniakAnthonyAssignment1\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+G:\CSharpProjects\MachniakAnthonyAssignment1\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+G:\CSharpProjects\MachniakAnthonyAssignment1\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+G:\CSharpProjects\MachniakAnthonyAssignment1\Exercise1\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
+G:\CSharpProjects\MachniakAnthonyAssignment1\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+G:\CSharpProjects\MachniakAnthonyAssignment1\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+G:\CSharpProjects\MachniakAnthonyAssignment1\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
